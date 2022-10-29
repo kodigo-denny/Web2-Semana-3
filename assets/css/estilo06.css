@@ -1,0 +1,30 @@
+body{
+    margin: 0px;
+}
+.caja{
+    width: 100px;
+    height: 100px;
+    background-color: cadetblue;
+    border: 1px solid black;
+}
+h4{
+    margin: 0px;
+}
+#caja1, #caja2{
+    float: right;
+}
+#caja3, #caja4{
+    float: left;
+}
+nav{
+    clear:left;
+}
+li{
+    float:left;
+}
+#formulario{
+    clear:left;
+}
+input, button{
+    float:right
+}

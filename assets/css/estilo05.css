@@ -1,0 +1,29 @@
+body{
+    margin: 0px;
+}
+.caja{
+    width: 100px;
+    height: 100px;
+    background-color: cadetblue;
+    border: 1px solid black;
+    position: absolute;
+}
+h4{
+    margin: 0px;
+}
+#caja2{
+    left: 152px;
+    top: 52px;
+    z-index: 1;
+}
+#caja3{
+    left: 204px
+}
+#caja4{
+    top: 102px;
+    width: 304px;
+}
+#formulario{
+    position: absolute;
+    left: 306px;
+}
